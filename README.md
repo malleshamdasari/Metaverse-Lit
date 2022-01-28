@@ -8,5 +8,9 @@
 * [DiOS - An Extended Reality Operating System for the Metaverse](https://arxiv.org/pdf/2201.03256.pdf)
 * [Future Networking Challenges: The Case of Mobile Augmented Reality](https://cse.hkust.edu.hk/~panhui/papers/future-networking-challenges_CameraReady.pdf)
 
+## VR Conferencing
+* [VRComm: An End-to-End Web System for Real-time Photo-realistic Social VR Communication](https://dl.acm.org/doi/pdf/10.1145/3458305.3459595) [MMSys'21]
+* [Virtual Reality Conferencing: Multi-user immersive VR experiences on the web](https://dl.acm.org/doi/pdf/10.1145/3204949.3208115) [MMSys'18]
+
 ## Datasets
 * [Voxelized Point Cloud Datasets](https://packet.media/datasets/)
