@@ -6,6 +6,8 @@
 * [From Capturing to Rendering: Volumetric Media Delivery with Six Degrees of Freedom](https://biblio.ugent.be/publication/8681909/file/8681910) [IEEE Comms Mag'20]
 * [Emerging MPEG Standards for Point Cloud Compression](https://ir.cwi.nl/pub/29040/Emerging-MPEG-Standards-for-Point-Cloud-Compression.pdf) [IEEE Journal on Circuits and Systems'18]
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [MobiSys'18]
+* [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.cse.psu.edu/~gxc27/teach/597/Furion.pdf) [MobiCom'17]
+* [FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization](https://members.aixr.org/storage/flashback_mobisys2016.pdf) [MobiSys'16]
 * [All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda](https://arxiv.org/pdf/2110.05352.pdf)
 * [DiOS - An Extended Reality Operating System for the Metaverse](https://arxiv.org/pdf/2201.03256.pdf)
 * [Future Networking Challenges: The Case of Mobile Augmented Reality](https://cse.hkust.edu.hk/~panhui/papers/future-networking-challenges_CameraReady.pdf)
