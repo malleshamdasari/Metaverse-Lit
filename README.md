@@ -1,4 +1,4 @@
-# Systems and Network related research in Metaverse (AR/VR/MR/XR)
+# Systems and Network related research in Metaverse and Mixed Reality!
 
 ## Streaming Optimizations
 * [Cloud Rendering-based Volumetric Video Streaming System for Mixed Reality Services](https://arxiv.org/pdf/2003.02526.pdf) [MMSys'20]
