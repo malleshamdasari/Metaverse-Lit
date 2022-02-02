@@ -1,4 +1,4 @@
-# Systems and Network related research in Metaverse and Mixed Reality!
+# Systems and Networking papers in Mixed Reality and Metaverse related research!
 
 ## Streaming Optimizations
 * [Cloud Rendering-based Volumetric Video Streaming System for Mixed Reality Services](https://arxiv.org/pdf/2003.02526.pdf) [MMSys'20]
@@ -13,6 +13,9 @@
 * [VRComm: An End-to-End Web System for Real-time Photo-realistic Social VR Communication](https://dl.acm.org/doi/pdf/10.1145/3458305.3459595) [MMSys'21]
 * [Virtual Reality Conferencing: Multi-user immersive VR experiences on the web](https://dl.acm.org/doi/pdf/10.1145/3204949.3208115) [MMSys'18]
 * [Holoportation: Virtual 3D Teleportation in Real-time](http://www.cs.toronto.edu/~slwang/holoportation.pdf) [UIST'16]
+
+## Rendering
+* [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://par.nsf.gov/servlets/purl/10159116) [ASPLOS'20]
 
 ## Content Capture and Data Representation
 * [Progressive meshes](https://cseweb.ucsd.edu/~viscomp/classes/cse163/sp17/hoppe96.pdf) [SIGGRAPH'96]
