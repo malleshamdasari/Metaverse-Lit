@@ -1,4 +1,4 @@
-# Systems and Networking papers in Mixed Reality and Metaverse related research!
+# Systems and Networking papers in Mixed Reality!
 
 ## Streaming and Rendering Optimizations
 * [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://par.nsf.gov/servlets/purl/10159116) [ASPLOS'20]
