@@ -3,6 +3,7 @@
 ## Streaming and Rendering Optimizations
 * [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://par.nsf.gov/servlets/purl/10159116) [ASPLOS'20]
 * [Cloud Rendering-based Volumetric Video Streaming System for Mixed Reality Services](https://arxiv.org/pdf/2003.02526.pdf) [MMSys'20]
+* [ViVo: Visibility-aware Mobile Volumetric Video Streaming](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf) [MobiCom'20]
 * [From Capturing to Rendering: Volumetric Media Delivery with Six Degrees of Freedom](https://biblio.ugent.be/publication/8681909/file/8681910) [IEEE Comms Mag'20]
 * [Emerging MPEG Standards for Point Cloud Compression](https://ir.cwi.nl/pub/29040/Emerging-MPEG-Standards-for-Point-Cloud-Compression.pdf) [IEEE Journal on Circuits and Systems'18]
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [MobiSys'18]
