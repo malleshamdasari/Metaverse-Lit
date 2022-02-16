@@ -5,8 +5,10 @@
 * [Cloud Rendering-based Volumetric Video Streaming System for Mixed Reality Services](https://arxiv.org/pdf/2003.02526.pdf) [MMSys'20]
 * [ViVo: Visibility-aware Mobile Volumetric Video Streaming](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf) [MobiCom'20]
 * [From Capturing to Rendering: Volumetric Media Delivery with Six Degrees of Freedom](https://biblio.ugent.be/publication/8681909/file/8681910) [IEEE Comms Mag'20]
+* [Shading atlas streaming](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_steinberger/SAS/shading_atlas_streaming.pdf) [ToG'18]
 * [Emerging MPEG Standards for Point Cloud Compression](https://ir.cwi.nl/pub/29040/Emerging-MPEG-Standards-for-Point-Cloud-Compression.pdf) [IEEE Journal on Circuits and Systems'18]
 * [Cutting the Cord: Designing a High-quality Untethered VR System with Low Latency Remote Rendering](http://www.winlab.rutgers.edu/~gruteser/papers/mobisys18_low_latency_vr.pdf) [MobiSys'18]
+* [Proxy-guided Image-based Rendering for Mobile Devices](https://resources.mpi-inf.mpg.de/ProxyIBR/ProxyIBRCompressed.pdf) [Pacific Graphics'16]
 * [Furion: Engineering High-Quality Immersive Virtual Reality on Today’s Mobile Devices](http://www.cse.psu.edu/~gxc27/teach/597/Furion.pdf) [MobiCom'17]
 * [FlashBack: Immersive Virtual Reality on Mobile Devices via Rendering Memoization](https://members.aixr.org/storage/flashback_mobisys2016.pdf) [MobiSys'16]
 * [All One Needs to Know about Metaverse: A Complete Survey on Technological Singularity, Virtual Ecosystem, and Research Agenda](https://arxiv.org/pdf/2110.05352.pdf)
