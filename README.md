@@ -26,3 +26,4 @@
 
 ## Datasets
 * [Voxelized Point Cloud Datasets](https://packet.media/datasets/)
+* [V-SENSE Volumetric Video Database](https://v-sense.scss.tcd.ie/research/vsensevvdb2-v-sense-volumetric-video-quality-database-2/): It includes 4 textured meshes (in Obj+Jpg+MTL format) + 4 point cloud sequences (in PLY format). They also have research paper comparing the quality vs. bitrate for meshes and point clouds.
