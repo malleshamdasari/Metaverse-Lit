@@ -1,6 +1,7 @@
 # Systems and Networking papers in Mixed Reality!
 
 ## Streaming and Rendering Optimizations
+* [HoloAR: On-the-fly Optimization of 3D Holographic Processing for Augmented Reality](https://dl.acm.org/doi/pdf/10.1145/3466752.3480056) [MICRO'21]
 * [Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices](https://par.nsf.gov/servlets/purl/10159116) [ASPLOS'20]
 * [Cloud Rendering-based Volumetric Video Streaming System for Mixed Reality Services](https://arxiv.org/pdf/2003.02526.pdf) [MMSys'20]
 * [ViVo: Visibility-aware Mobile Volumetric Video Streaming](https://www-users.cse.umn.edu/~fengqian/paper/vivo_mobicom20.pdf) [MobiCom'20]
