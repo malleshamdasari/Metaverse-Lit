@@ -25,6 +25,7 @@
 
 ## Avatars
 * [AlterEcho: Loose Avatar-Streamer Coupling for Expressive VTubing](https://www.cs.purdue.edu/cgvlab/papers/popescu/2021ISMARAlterEchoPopescu.pdf) [ISMAR'21]
+* [CollaboVR: A Reconfigurable Framework for Creative Collaboration in Virtual Reality](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/189b494879ed856e95957c6e740af57aa0fa3a50.pdf) [ISMAR'20]
 
 ## Content Capture and Data Representation
 * [Progressive meshes](https://cseweb.ucsd.edu/~viscomp/classes/cse163/sp17/hoppe96.pdf) [SIGGRAPH'96]
