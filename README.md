@@ -23,6 +23,9 @@
 * [Virtual Reality Conferencing: Multi-user immersive VR experiences on the web](https://dl.acm.org/doi/pdf/10.1145/3204949.3208115) [MMSys'18]
 * [Holoportation: Virtual 3D Teleportation in Real-time](http://www.cs.toronto.edu/~slwang/holoportation.pdf) [UIST'16]
 
+## Avatars
+* [AlterEcho: Loose Avatar-Streamer Coupling for Expressive VTubing](https://www.cs.purdue.edu/cgvlab/papers/popescu/2021ISMARAlterEchoPopescu.pdf) [ISMAR'21]
+
 ## Content Capture and Data Representation
 * [Progressive meshes](https://cseweb.ucsd.edu/~viscomp/classes/cse163/sp17/hoppe96.pdf) [SIGGRAPH'96]
 
